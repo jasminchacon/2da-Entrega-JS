@@ -64,6 +64,7 @@ input[type="number"] {
 button {
     padding: 16px;
     background-color: black;
+    font-weight: bold;
     color: white;
     border: none;
     border-radius: 4px;
@@ -73,7 +74,7 @@ button {
     top: 135px;
 }
 button:hover {
-    background-color: #0056b3;
+    background-color: #203A43;
 }
 
 #passwordOutput {
